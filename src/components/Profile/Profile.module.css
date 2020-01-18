@@ -1,0 +1,10 @@
+.Profile {
+    background-color: #FF2B2B;
+    grid-area: profile;
+}
+
+.Profile img {
+    width: 100%;
+    height: 150px;
+    background-color: indigo;
+}

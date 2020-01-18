@@ -1,0 +1,13 @@
+.Navbar {
+    background-color: #131313;
+    grid-area: navbar;
+}
+
+.item {
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 30px;
+    margin-left: 20px;
+}
